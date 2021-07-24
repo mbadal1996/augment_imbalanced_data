@@ -4,8 +4,8 @@ This R code helps to load, clean, and augment the highly imbalanced NIH drug dis
 NOTE NOTE NOTE:
 
 The data set 'drug-discovery.csv' was split into two CSV files called part1 and part2
-in order to faciliate uploading to the repo. Please combine the CSVs before processing
-the data with the provided code.
+in order to facilitate uploading to the repo. Please combine the CSVs into one file 
+called 'drug-discovery.csv' before processing the data with the provided R code.
 
 ==================================================================
 
