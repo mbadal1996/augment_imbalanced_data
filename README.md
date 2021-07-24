@@ -1,6 +1,12 @@
 # augment_imbalanced_data
 This R code helps to load, clean, and augment the highly imbalanced NIH drug discovery data set. 
 
+NOTE NOTE NOTE:
+
+The data set 'drug-discovery.csv' was split into two CSV files called part1 and part2
+in order to faciliate uploading to the repo. Please combine the CSVs before processing
+the data with the provided code.
+
 ==================================================================
 
 Intro: 
