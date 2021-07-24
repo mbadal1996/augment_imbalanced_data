@@ -1,4 +1,6 @@
 
+# Author: mbadal1996
+
 # Comments:
 # The purpose of the following R code is to aid the user in loading, cleaning,
 # and augmenting the highly imbalanced data set called 'drug-discovery.csv'
